@@ -1,0 +1,20 @@
+D:\CaseStudy\FlightBookingSystem\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+D:\CaseStudy\FlightBookingSystem\Common\bin\Debug\netcoreapp3.1\Common.dll
+D:\CaseStudy\FlightBookingSystem\Common\bin\Debug\netcoreapp3.1\Common.pdb
+D:\CaseStudy\FlightBookingSystem\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\CaseStudy\FlightBookingSystem\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\CaseStudy\FlightBookingSystem\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\CaseStudy\FlightBookingSystem\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\CaseStudy\FlightBookingSystem\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\CaseStudy\FlightBookingSystem\Common\obj\Debug\netcoreapp3.1\Common.dll
+D:\CaseStudy\FlightBookingSystem\Common\obj\Debug\netcoreapp3.1\Common.pdb
+D:\FlightApplication-Visual Studio\FlightBookingSystem\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+D:\FlightApplication-Visual Studio\FlightBookingSystem\Common\bin\Debug\netcoreapp3.1\Common.dll
+D:\FlightApplication-Visual Studio\FlightBookingSystem\Common\bin\Debug\netcoreapp3.1\Common.pdb
+D:\FlightApplication-Visual Studio\FlightBookingSystem\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\FlightApplication-Visual Studio\FlightBookingSystem\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\FlightApplication-Visual Studio\FlightBookingSystem\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\FlightApplication-Visual Studio\FlightBookingSystem\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\FlightApplication-Visual Studio\FlightBookingSystem\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\FlightApplication-Visual Studio\FlightBookingSystem\Common\obj\Debug\netcoreapp3.1\Common.dll
+D:\FlightApplication-Visual Studio\FlightBookingSystem\Common\obj\Debug\netcoreapp3.1\Common.pdb

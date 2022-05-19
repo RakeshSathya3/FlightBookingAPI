@@ -1,0 +1,106 @@
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\appsettings.json
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\ocelot.json
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.exe
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.deps.json
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.json
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.dev.json
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.dll
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.pdb
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.Views.dll
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.Views.pdb
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\Consul.dll
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\Ocelot.Provider.Consul.dll
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+D:\CaseStudy\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.AssemblyReference.cache
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfoInputs.cache
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfo.cs
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CoreCompileInputs.cache
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.RazorAssemblyInfo.cache
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.RazorAssemblyInfo.cs
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\staticwebassets\APIGateway.StaticWebAssets.Manifest.cache
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\staticwebassets\APIGateway.StaticWebAssets.xml
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\scopedcss\bundle\APIGateway.styles.css
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.TagHelpers.input.cache
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.TagHelpers.output.cache
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.RazorCoreGenerate.cache
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.RazorTargetAssemblyInfo.cache
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.RazorTargetAssemblyInfo.cs
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.Views.pdb
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CopyComplete
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.dll
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.pdb
+D:\CaseStudy\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.genruntimeconfig.cache
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\appsettings.json
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\ocelot.json
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.exe
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.deps.json
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.json
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.dev.json
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.dll
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.pdb
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.Views.dll
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.Views.pdb
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\Consul.dll
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\Ocelot.Provider.Consul.dll
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.AssemblyReference.cache
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfoInputs.cache
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfo.cs
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CoreCompileInputs.cache
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.RazorAssemblyInfo.cache
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.RazorAssemblyInfo.cs
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\staticwebassets\APIGateway.StaticWebAssets.Manifest.cache
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\staticwebassets\APIGateway.StaticWebAssets.xml
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\scopedcss\bundle\APIGateway.styles.css
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.TagHelpers.input.cache
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.TagHelpers.output.cache
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.RazorCoreGenerate.cache
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.RazorTargetAssemblyInfo.cache
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.RazorTargetAssemblyInfo.cs
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.Views.pdb
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CopyComplete
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.dll
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.pdb
+D:\FlightApplication-Visual Studio\FlightBookingSystem\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.genruntimeconfig.cache
